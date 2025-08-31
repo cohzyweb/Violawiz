@@ -336,11 +336,6 @@ span {
     cursor: pointer;
 }
 
-/* ===============================
-   RESPONSIVE DESIGN
-   =============================== */
-
-/* Tablets (max-width: 991px) */
 @media (max-width: 991px) {
   section {
     padding: 8rem 4% 2rem;
