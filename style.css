@@ -161,6 +161,7 @@ span {
 
 .about-img img {
   width: 35vw;
+  border-radius: 20px;
 }
 
 .heading {
